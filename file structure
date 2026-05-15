@@ -1,0 +1,9 @@
+skill-matching-platform/
+│
+├── client/
+├── server/
+├── public/
+├── src/
+├── README.md
+├── package.json
+└── .gitignore
