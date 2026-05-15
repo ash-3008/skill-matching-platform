@@ -1,0 +1,21 @@
+job_title,job_skills,candidate_role,candidate_skills,experience,label
+Frontend Developer,"React JavaScript CSS HTML","Frontend Developer","React JavaScript CSS HTML Redux","1 year",1
+Frontend Developer,"React JavaScript CSS HTML","Backend Developer","Node.js Express MySQL REST API","2 years",0
+Frontend Developer,"React JavaScript CSS HTML","UI Designer","Figma CSS Design Systems","1 year",0
+Backend Developer,"Node.js Express MySQL REST API","Backend Developer","Node.js Express MySQL REST API","2 years",1
+Backend Developer,"Node.js Express MySQL REST API","Frontend Developer","React JavaScript CSS HTML","1 year",0
+Backend Developer,"Node.js Express MySQL REST API","Full Stack Developer","React Node.js PostgreSQL Express","2 years",1
+UI UX Designer,"Figma Wireframing Prototyping CSS","UI Designer","Figma Wireframing Prototyping CSS","1 year",1
+UI UX Designer,"Figma Wireframing Prototyping CSS","Backend Developer","Node.js Express MySQL","2 years",0
+QA Engineer,"Testing Selenium API Testing Postman","QA Engineer","Testing Selenium API Testing Postman","1 year",1
+QA Engineer,"Testing Selenium API Testing Postman","Frontend Developer","React JavaScript CSS","1 year",0
+Full Stack Developer,"React Node.js PostgreSQL Express","Full Stack Developer","React Node.js PostgreSQL Express","2 years",1
+Full Stack Developer,"React Node.js PostgreSQL Express","UI Designer","Figma CSS Design Systems","1 year",0
+Frontend Developer,"React JavaScript CSS HTML","Frontend Developer","React JavaScript HTML CSS Git","Fresher",1
+Backend Developer,"Node.js Express MySQL REST API","Backend Developer","Node.js MySQL Express MongoDB","Fresher",1
+Data Analyst,"Python SQL Excel PowerBI","Data Analyst","Python SQL Excel Tableau","1 year",1
+Data Analyst,"Python SQL Excel PowerBI","Frontend Developer","React CSS JavaScript","1 year",0
+Machine Learning Engineer,"Python ML TensorFlow Pandas","Machine Learning Engineer","Python ML TensorFlow Pandas Scikit-learn","2 years",1
+Machine Learning Engineer,"Python ML TensorFlow Pandas","Backend Developer","Node.js Express MySQL","2 years",0
+DevOps Engineer,"Docker CI/CD AWS Linux","DevOps Engineer","Docker CI/CD AWS Linux Kubernetes","2 years",1
+DevOps Engineer,"Docker CI/CD AWS Linux","UI Designer","Figma Design Systems","1 year",0

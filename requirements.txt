@@ -1,0 +1,5 @@
+flask
+datasets
+joblib
+pandas
+scikit-learn
